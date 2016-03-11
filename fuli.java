@@ -87,7 +87,6 @@ public class fuli extends JFrame {
         c3.addActionListener(hander3);
 
     }
-
     private class c1ActionEventHander implements ActionListener {
         public void actionPerformed(ActionEvent e) {
             double principal=0;
